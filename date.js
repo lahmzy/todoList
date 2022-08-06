@@ -14,7 +14,7 @@ return day;
 }
 
 
-  exports.getDay =function (){
+exports.getDay =function (){
   let today = new Date(); 
   
   let options={
